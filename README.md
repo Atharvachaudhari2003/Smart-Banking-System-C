@@ -1,24 +1,24 @@
-# 💻 Smart Banking System in C
+# Smart Banking System in C
 
-## 🚀 Overview
+## Overview
 
 A console-based banking system developed in C that simulates real-world banking operations using file handling.
 
 ---
 
-## ✨ Features
+## Features
 
-* 🧾 Create Account with secure PIN
-* 💰 Deposit Money
-* 💸 Withdraw Money
-* 📊 Check Balance
-* 🔍 Search Account
-* 📜 Transaction History
-* 🗑 Delete Account
+* Create Account with secure PIN
+* Deposit Money
+* Withdraw Money
+* Check Balance
+* Search Account
+* Transaction History
+* Delete Account
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * C Programming
 * File Handling (fopen, fread, fwrite)
@@ -26,7 +26,7 @@ A console-based banking system developed in C that simulates real-world banking 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 gcc bank.c -o bank
@@ -35,21 +35,14 @@ gcc bank.c -o bank
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 * Binary file handling
 * Data persistence
 * Temporary file update logic
 * Modular programming
-
 ---
 
-## 📸 Sample Output
-
-(Add screenshot here if possible)
-
----
-
-## 👨‍💻 Author
+## Author
 
 Atharva Chaudhari
